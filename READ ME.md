@@ -33,7 +33,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](./images/web capture_14-9-2022_16916_.jpg)
+![.\Frontend Mentor NFT preview card\images\Web capture_14-9-2022_16916_.jpeg](./images/web capture_14-9-2022_16916_.jpg)
 
 
 ### Links

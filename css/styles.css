@@ -60,7 +60,7 @@ body {
   transform: translate(-50%, -50%);
 }
 
-h3 {
+h1 {
   cursor: pointer;
   color: #ffffff;
   font-family: 'Outfit', sans-serif;
@@ -71,7 +71,7 @@ h3 {
   left: 23px;
 }
 
-h3:hover {
+h1:hover {
   color: #00FFF6;
   font-family: 'Outfit', sans-serif;
   font-weight: 600;
@@ -165,12 +165,21 @@ span:hover {
   cursor: pointer;
   margin-left: 3.5px;
 }
+footer {
+  color: red;
+}
 
-.attribution {
+.link-1 {
   color: cyan;
   display: block;
   font-weight: 900;
   text-transform: capitalize;
   margin: 0;
   padding: 0;
+}
+.link-2 {
+  color: white;
+  font-weight: bolder;
+  font-size: 18px;
+  text-decoration: underline;
 }
